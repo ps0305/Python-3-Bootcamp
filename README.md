@@ -5,7 +5,7 @@
 
 
 #### topics:
-
+```
 •	Command Line Basics
 •	Installing Python
 •	Running Python Code
