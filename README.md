@@ -1,7 +1,7 @@
 ![567828_67d0](https://user-images.githubusercontent.com/34129569/41303204-283bd08e-6e8a-11e8-8d09-5a8650edcea9.jpg)
 
 
-## Python-3-Bootcamp
+#### *Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.* [link to Python Tutorial!](https://docs.python.org/3/tutorial/index.html)
 
 
 #### topics:
